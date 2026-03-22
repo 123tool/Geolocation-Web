@@ -4,7 +4,7 @@ Web untuk melacak dan menampilkan lokasi pengguna secara real-time di atas peta 
 
 ---
 
-## 📸 Demo Tampilan
+## 📸 Tampilan
 ![Gambar](https://raw.githubusercontent.com/123tool/Geolocation-Web/refs/heads/main/demo-map.png)
 > *Gambar di atas adalah ilustrasi tampilan peta saat berhasil melacak lokasi (Ganti link ini dengan link gambar screenshot kamu).*
 
