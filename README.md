@@ -1,11 +1,11 @@
-# 📍 Real-time Geolocation Tracker
+# 📍 Web Geolocation Tracker
 
-Aplikasi web untuk melacak dan menampilkan lokasi pengguna secara real-time di atas peta digital menggunakan **Leaflet.js** dan **OpenStreetMap**. 
+Web untuk melacak dan menampilkan lokasi pengguna secara real-time di atas peta digital menggunakan **Leaflet.js** dan **OpenStreetMap**. 
 
 ---
 
 ## 📸 Demo Tampilan
-![Screenshot Aplikasi](https://raw.githubusercontent.com/username/nama-repo/main/screenshot.png)
+![Gambar](https://raw.githubusercontent.com/123tool/Geolocation-Web/refs/heads/main/demo-map.png)
 > *Gambar di atas adalah ilustrasi tampilan peta saat berhasil melacak lokasi (Ganti link ini dengan link gambar screenshot kamu).*
 
 ### 🌐 [DEMO LIVE](https://123tool.github.io/Geolocation-Web/)
